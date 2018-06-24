@@ -1,0 +1,8 @@
+﻿  glad.c
+  源.cpp
+d:\shader_s\shader_s\include\shader_s.h(4): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+d:\计算机图形学\code\bresenham_withgui\bresenham_withgui\源.cpp(199): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+d:\计算机图形学\code\bresenham_withgui\bresenham_withgui\源.cpp(200): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+d:\计算机图形学\code\bresenham_withgui\bresenham_withgui\源.cpp(483): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+  bresenham_withGUI.vcxproj -> D:\计算机图形学\code\bresenham_withGUI\Debug\bresenham_withGUI.exe
+  bresenham_withGUI.vcxproj -> D:\计算机图形学\code\bresenham_withGUI\Debug\bresenham_withGUI.pdb (Full PDB)
